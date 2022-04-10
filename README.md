@@ -18,15 +18,7 @@
  SCRIPT ADMrufu 31-03-2022  |  04-04-22
  SCRIPT ChumoGH 4.8x ------ |  04-04-22
  SCRIPT LATAM 1.1G -------- |  04-04-22
- 
- ❗ Cualquier error avisar en el Grupo TG
-------------------------------------------------------------------
 
-GRUPO DE TELEGRAM: https://t.me/+HyiGQFE3BhZhZmMx
+❗     
 
-------------------------------------------------------------------
-😋 SE AGRADECE CUALQUIER DONACION       
-BTC
-```3M8zaTvkVYkz87jeDmpAMBCiQsRrKff3qk```    
-LTC
-```MA8nZyyQbMY3MRhZ7Qka6wEMjkGR6zjha1```   
+
