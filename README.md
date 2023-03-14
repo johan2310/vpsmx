@@ -3,7 +3,7 @@
 ------------------------------------------------------------------
 <p dir="auto"><img src="https://raw.githubusercontent.com/NetVPS/VPS-MX_Oficial/master/SCREEN-ALL/VPS-MXOF.png" alt="" width="500" height="408" /></p>
 <p dir="auto" style="text-align: center;"><strong>VPS-MX 8.5 OFICIAL</strong></p>
-<p dir="auto" style="text-align: center;"><strong><img src="https://raw.githubusercontent.com/NetVPS/VPS-MX_Oficial/master/SCREEN-ALL/VPS-MXMOD.png" alt="" width="500" height="332" /></strong></p>
+<p dir="auto" style="text-align: center;"><strong><img src="https://github.com/johan2310/vpsmx/master/SCREEN-ALL/VPS-MXMOD.png" alt="" width="500" height="332" /></strong></p>
 <p dir="auto" style="text-align: center;"><strong>VPS-MX 8.6x MOD</strong></p>
 
 ------------------------------------------------------------------
